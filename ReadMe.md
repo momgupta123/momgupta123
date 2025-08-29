@@ -1,4 +1,4 @@
-# Hi 👋, I'm Raushan H S  
+# Hi 👋, I'm Raushan Kumar
 ![Coding](assets/ima.mp4)
 🎓 MCA Student at **Lovely Professional University (LPU)** | 💻 Aspiring **Software Architect**  
 
