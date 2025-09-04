@@ -1,5 +1,5 @@
 # Hi 👋, I'm Raushan Kumar
-![Coding](assets/ima.mp4](https://www.canva.com/design/DAGyB6xXSGY/af4sG37y6EPwGzdAXre-WQ/watch?utm_content=DAGyB6xXSGY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb7e5dd7618))
+<video src="assets/ima.mp4" controls width="600"></video>
 🎓 MCA Student at **Lovely Professional University (LPU)** | 💻 Aspiring **Software Architect**  
 
 
