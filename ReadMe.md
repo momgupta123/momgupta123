@@ -1,5 +1,6 @@
 # Hi 👋, I'm Raushan Kumar
-▶️ [Watch Demo on Canva](https://www.canva.com/design/DAGyB6xXSGY/vC5VpbjRjYDRb95Jl5UKpQ/edit?utm_content=DAGyB6xXSGY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<video src="https://www.canva.com/design/DAGyB6xXSGY/vC5VpbjRjYDRb95Jl5UKpQ/edit?utm_content=DAGyB6xXSGY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" controls width="600"></video>
+
 
 🎓 MCA Student at **Lovely Professional University (LPU)** | 💻 Aspiring **Software Architect**  
 
